@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,900;1,700&display=swap");
+a:link,
+visited,
+hover,
+active {
+	color: white;
+	text-decoration: none;
+	font-family: "Roboto", sans-serif;
+}
+/*HEADER*/
+h1{color:white; font-family: 'Roboto',sans-serif,Verdana, Geneva, Tahoma, sans-serif;font-size: 50px; font-weight: bold; background-image: url(../img/FONDOCV.jpg)}
+
+.returntomainpage{font-weight: bold;font-size: 30px;}
+/* MAIN */
+main {
+	color: white;
+    font-family: 'Roboto',sans-serif;
+	background-color: black;
+	;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vw;
+}

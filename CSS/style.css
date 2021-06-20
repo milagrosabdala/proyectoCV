@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,900;1,700&display=swap');
+
+a:link,visited,hover,active{color: white; text-decoration: none; font-family: 'Roboto', sans-serif;}
+
+/* HEADER*/
+.divavatar {background-color: rgb(129, 118, 100); ;
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    width: 100%; 
+    height: 15vw;
+
+}
+h1{
+    color: white;
+    position: absolute;
+    font-family: Roboto;
+    font-size: 40px
+    font-style:
+}
+.navaboutme{
+    font-style: oblique;
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: rgb(129, 118, 100); 
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: ;
+}
+.avatar{ 
+    border-radius: 100%;
+    height: 20vh;
+    margin-right: 70%;
+    width: auto;
+
+}
+ /*MAIN*/
+ main{ color:white ; font-family: 'Roboto', sans-serif,Verdana, Geneva, Tahoma, sans-serif;
+background-image: url(../img/FONDOCV.jpg);
+background-size: cover;
+background-position: center;}
+ h2{font-size: 30px;
+    font-weight: bold;
+text-transform: uppercase;}
+
+dd{text-indent: 39px;}
+
+/*FOOTER*/
+footer{ font-size: medium;font-weight: bold;}
